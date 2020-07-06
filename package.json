@@ -1,0 +1,27 @@
+{
+  "name": "riabinina-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-es2016": "^7.0.0-beta.53",
+    "@babel/register": "^7.10.4",
+    "@wdio/cli": "^6.1.22",
+    "@wdio/local-runner": "^6.1.22",
+    "@wdio/mocha-framework": "^6.1.19",
+    "@wdio/spec-reporter": "^6.1.14",
+    "@wdio/sync": "^6.1.14",
+    "chromedriver": "^83.0.0",
+    "lint-formatter": "^2.0.0",
+    "wdio-chromedriver-service": "^6.0.3"
+  }
+}
